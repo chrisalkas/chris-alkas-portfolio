@@ -15,6 +15,17 @@ Finance student with advanced experience in institutional-grade equity research,
 📄 **Full Report:**  
 [Download CFA Research Report (PDF)](CFA_Research_Challenge_ORLY_Report_FINAL.pdf)
 
+## 📊 Presentation Highlights
+
+### Governance Analysis
+![Governance Slide](X.png)
+
+### Fragmented Market Structure
+![Fragmented Market Slide](Y.png)
+
+### Football Field Valuation
+![Football Field Slide](Z.png)
+
 ### Project Objective  
 Determine intrinsic equity value while evaluating macroeconomic, competitive, and ESG risks.
 
@@ -31,7 +42,6 @@ Determine intrinsic equity value while evaluating macroeconomic, competitive, an
 - Power BI  
 - Python (data analysis)  
 - Tableau    
-
 ---
 
 # Core Skills  
@@ -49,7 +59,6 @@ Determine intrinsic equity value while evaluating macroeconomic, competitive, an
 - Tableau  
 - Python  
 - GitHub
-- Canva
 
 ---
 
