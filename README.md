@@ -15,7 +15,9 @@ Finance student with advanced experience in institutional-grade equity research,
 📄 **Full Report:**  
 [Download CFA Research Report (PDF)](CFA_Research_Challenge_ORLY_Report_FINAL.pdf)
 
-## 📊 Presentation Highlights
+📄 **Full Presentation**
+
+[Download Full Presentation (PDF)](CFA_Research_Challenge_ORLY_Report_FINAL.pdf)
 
 ### Governance Analysis
 ![Governance Slide](X.png)
