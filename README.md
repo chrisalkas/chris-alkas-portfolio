@@ -12,6 +12,9 @@ Finance student with advanced experience in institutional-grade equity research,
 
 ## CFA Research Challenge – O'Reilly Automotive (ORLY)
 
+📄 **Full Report:**  
+[Download CFA Research Report (PDF)](CFA_Research_Challenge_ORLY_Report_FINAL.pdf)
+
 ### Project Objective  
 Determine intrinsic equity value while evaluating macroeconomic, competitive, and ESG risks.
 
