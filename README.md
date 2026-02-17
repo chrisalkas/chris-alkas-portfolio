@@ -19,15 +19,6 @@ Finance student with advanced experience in institutional-grade equity research,
 
 [Download Full Presentation (PDF)](CFA_Research_Challenge_ORLY_Report_FINAL.pdf)
 
-### Governance Analysis
-![Governance Slide](X.png)
-
-### Fragmented Market Structure
-![Fragmented Market Slide](Y.png)
-
-### Football Field Valuation
-![Football Field Slide](Z.png)
-
 ### Project Objective  
 Determine intrinsic equity value while evaluating macroeconomic, competitive, and ESG risks.
 
