@@ -17,7 +17,7 @@ Finance student with advanced experience in institutional-grade equity research,
 
 📄 **Full Presentation**
 
-[Download Full Presentation (PDF)](CFA_Research_Challenge_ORLY_Report_FINAL.pdf)
+[Download Full Presentation (PDF)](CFA_Research_Challenge_ORLY_Presentation_FINAL.pdf)
 
 ### Project Objective  
 Determine intrinsic equity value while evaluating macroeconomic, competitive, and ESG risks.
